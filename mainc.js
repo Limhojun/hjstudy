@@ -21,4 +21,4 @@
   	console.log(sum);
   }
   var hjmath = new HJ_Math();
- ghffghjmath.add(2);
+ hjmath.add(2);
