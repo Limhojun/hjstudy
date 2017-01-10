@@ -17,4 +17,4 @@ HJ_Math.prototype.add = function (num){
   console.log(sum);
 }
 var hjmath = new HJ_Math();
-hjmath.add(1);
+hjmath.add(2);
