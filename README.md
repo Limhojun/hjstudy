@@ -22,7 +22,7 @@ http://library1008.tistory.com/51 이 링크를 보시고 설치하시면 됩니
 
 ###### node install <a id ="node_install"></a>
 https://nodejs.org/en/download/ 에서 window 64bit 버전을 다운 받아서 설치<br>
-
+<img src="http://i.imgur.com/GC9RBnh.png">
 ###### gulp 설정 <a id = "gulp_set"></a>
 1. Geomartian 프로젝트로 이동
 2. $npm install gulp -g
@@ -37,7 +37,7 @@ https://nodejs.org/en/download/ 에서 window 64bit 버전을 다운 받아서 �
 5. $npm install gulp-watch
 5. $npm install del
 
-##### server가 필요한 npm(Node Package Modules) <a id = "server_set"></a>
+###### server가 필요한 npm(Node Package Modules) <a id = "server_set"></a>
 1. Geomartian 프로젝트로 이동
 2. $npm install compression
 3. $npm install request
